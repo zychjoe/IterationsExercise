@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/bin/Debug/netcoreapp3.1/IterationsExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/bin/Debug/netcoreapp3.1/IterationsExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/bin/Debug/netcoreapp3.1/IterationsExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/bin/Debug/netcoreapp3.1/IterationsExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/bin/Debug/netcoreapp3.1/IterationsExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/obj/Debug/netcoreapp3.1/IterationsExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/obj/Debug/netcoreapp3.1/IterationsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/obj/Debug/netcoreapp3.1/IterationsExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/obj/Debug/netcoreapp3.1/IterationsExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/obj/Debug/netcoreapp3.1/IterationsExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/obj/Debug/netcoreapp3.1/IterationsExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/obj/Debug/netcoreapp3.1/IterationsExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/IterationsExercise/IterationsExercise/obj/Debug/netcoreapp3.1/IterationsExercise.genruntimeconfig.cache

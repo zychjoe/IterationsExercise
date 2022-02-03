@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7E437F75-224F-49D6-93D7-888A52339DDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IterationsExercise/Program.cs">
+    <Files>
+      <File FileName="IterationsExercise/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IterationsExercise" expanded="True">
+            <Node name="IterationsExercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IterationsExercise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
